@@ -79,7 +79,7 @@ Follow these steps to set up the project on your local machine:
   <img src="https://github.com/gowthamsp17/Defaulter-Monitoring-System/blob/main/Output_Images/DMS_1.jpg" alt="Defaulter Monitoring System" width="80%" >
   <img src="https://github.com/gowthamsp17/Defaulter-Monitoring-System/blob/main/Output_Images/DMS_2.jpg" alt="Defaulter Monitoring System" width="80%" >
   <img src="https://github.com/gowthamsp17/Defaulter-Monitoring-System/blob/main/Output_Images/DMS_3.jpg" alt="Defaulter Monitoring System" width="80%" >
-  <img src="https://github.com/gowthamsp17/Defaulter-Monitoring-System/blob/main/Output_Images/DMS_4.jpg" alt="Defaulter Monitoring System" width="80%" >
+  <img src="https://github.com/Hariprasath-0018/DMS-App/blob/master/DMS_4.jpg" alt="Defaulter Monitoring System" width="80%" >
   <img src="https://github.com/gowthamsp17/Defaulter-Monitoring-System/blob/main/Output_Images/DMS_5.jpg" alt="Defaulter Monitoring System" width="80%" >
 </div>
 
