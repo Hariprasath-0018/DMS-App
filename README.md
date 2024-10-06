@@ -108,6 +108,5 @@ Contributions are welcome! Please follow these steps to contribute:
 
 If you have any questions or suggestions, feel free to contact me:
 
-- Gowtham S P
-- GitHub: [gowthamsp17](https://github.com/gowthamsp17)
-- Email: gowthamsp.1703@gmail.com
+- Hariprasath N
+- Email: hariprasath2004n@gmail.com
